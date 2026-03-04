@@ -1,0 +1,5 @@
+{
+  "name": "Unicode Text Converter",
+  "description": "A tool to convert text into various Unicode font styles like bold, script, gothic, and more.",
+  "requestFramePermissions": []
+}
